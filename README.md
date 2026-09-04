@@ -18,6 +18,10 @@ ________________________________________<br>
 ________________________________________
 # Network Topology Diagram
 (Insert your Packet Tracer screenshot showing R1 ↔ R2 serial link, each router connected to two switches with PCs attached.)<br>
+
+<img width="1917" height="1045" alt="Screenshot 2026-09-05 005948" src="https://github.com/user-attachments/assets/9d02803a-1c85-4b18-8dc2-b4c7a3a49de0" />
+
+
 ________________________________________
 # Addressing Table
 Device	Interface	IP Address	Subnet Mask	Default Gateway<br>
@@ -112,9 +116,16 @@ ________________________________________<br>
 •	Save: copy running-config startup-config<br>
 ________________________________________<br>
 # Output (Attach Screenshots)
-•	show ip interface brief on R1 and R2<br>
-•	Successful pings PC ↔ PC<br>
-________________________________________<br>
+
+<img width="866" height="575" alt="Screenshot 2026-09-05 010018" src="https://github.com/user-attachments/assets/fa5246b9-c922-476e-b4b4-f974fca7d0a1" />
+
+
+<img width="817" height="918" alt="Screenshot 2026-09-05 005751" src="https://github.com/user-attachments/assets/2419ab94-ed26-4cf4-9062-8d2524f05ff5" />
+
+
+<img width="1037" height="642" alt="Screenshot 2026-09-05 005718" src="https://github.com/user-attachments/assets/ab2c2d85-bdfc-413b-8171-3f0245cd9e7f" />
+
+______<br>
 # Result
 The IPv4 subnetting scheme was successfully designed and implemented. Routers, switches, and PCs were configured with correct addressing. Connectivity within LANs and across WAN was verified.
 
